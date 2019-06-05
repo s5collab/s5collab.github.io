@@ -50,12 +50,13 @@
 	}
 
 		#navButton .toggle:before {
-			content: "";
+			content: "\f0c9";
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
-			font-family: FontAwesome;
+			font-family: "Font Awesome 5 Free Solid", "Font Awesome 5 Free" !important;
 			font-style: normal;
-			font-weight: normal;
+			/* font-weight: normal; */
+			font-weight: 900; /* regular style/weight */
 			text-transform: none !important;
 		}
 
