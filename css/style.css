@@ -457,17 +457,12 @@
 
 /* Image */
 
-	.Image {
+	.image {
 		border-radius: 6px;
 		border: 0;
 		display: inline-block;
 		position: relative;
 	}
-
-                /* ADW: Added for circular cutout */
-                .img-circle {
-                    border-radius: 50%;
-                }
 
 		.image img {
 			border-radius: 6px;
