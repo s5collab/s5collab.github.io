@@ -1,144 +1,293 @@
 <!DOCTYPE HTML>
 <!--
-    Ion by TEMPLATED
-    templated.co @templatedco
-    Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+	Ion by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
 -->
 <html>
-  <head>
-    <title>S5 Collaboration</title>
-    <link rel="icon" type="image/png" sizes="32x32" href="images/s5-favicon.png">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+
+<head>
+    <title>S5 • Southern Stellar Stream Spectroscopic Survey</title>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="description" content="" />
     <meta name="keywords" content="" />
     <!--[if lte IE 8]><script src="js/html5shiv.js"></script><![endif]-->
     <script src="js/jquery.min.js"></script>
-    <script src="js/bootstrap.min.js-3.1.1"></script>
     <script src="js/skel.min.js"></script>
     <script src="js/skel-layers.min.js"></script>
     <script src="js/init.js"></script>
     <noscript>
-      <link rel="stylesheet" href="css/skel.css" />
-      <link rel="stylesheet" href="css/style.css" />
-      <link rel="stylesheet" href="css/style-xlarge.css" />
+        <link rel="stylesheet" href="css/skel.css" />
+        <link rel="stylesheet" href="css/style.css" />
+        <link rel="stylesheet" href="css/style-xlarge.css" />
     </noscript>
-  </head>
+</head>
 
-  <body id="top">
+<body id="top">
 
     <!-- Header -->
     <header id="header" class="skel-layers-fixed">
-      <p style="left: 1.25em;"><img src="images/s5-favicon.png" style="width:24px"> S5 Collaboration</p>
-      <nav id="nav">
-        <ul>
-          <li><a href="index.html">Home</a></li>
-          <li><a href="#about">About</a></li>
-          <li><a href="#org">Members</a></li>
-          <li><a href="#data">Data</a></li>
-          <li><a href="#pub">Publication</a></li>
-          <li><a href="https://drive.google.com/drive/u/0/folders/1F4rMvsNli7D7rNNG7MyOxaM19sMELj3f">Internal</a></li>
-        </ul>
-      </nav>
+        <h1><a href="#">S5 Collaboration</a></h1>
+        <nav id="nav">
+            <ul>
+                <li><a href="#top">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#data">Data</a></li>
+                <li><a href="#publications">Publications</a></li>
+                <li><a href="#collaboration">Members</a></li>
+            </ul>
+        </nav>
     </header>
 
     <!-- Banner -->
     <section id="banner">
-      <div class="inner" style="height:100px;">
-        <h2>S5 Collaboration</h2>
-        <p><u>S</u>outhern <u>S</u>tellar <u>S</u>tream <u>S</u>pectroscopic <u>S</u>urvey</p>
-      </div>
+        <div class="inner">
+            <h2>S5 Collaboration</h2>
+            <p><u>S</u>outhern <u>S</u>tellar <u>S</u>tream <u>S</u>pectroscopic <u>S</u>urvey</p>
+        </div>
     </section>
 
+    <!-- One -->
     <section id="about" class="wrapper style1">
-      <header class="major">
-        <h2>About S5</h2>
-      </header>
-      <div class="container">
-        <div class="row">
-          <div class="12u">
+        <header class="major">
+            <h2>About S5</h2>
+            <p>Mapping stellar streams of the Milky Way with the Anglo-Australian Telescope</p>
+        </header>
+        <div class="container">
             <p>
-            S5 is a spectroscopic survey with AAT ...
-            <ul>
-            <li> S5-Stream: </li>
-            <li> S5-Halo: </li>
-            <li> S5-LOWZ: </li>
-            </ul>
+                S5 is a spectroscopic survey began in 2018 with the 2dF/AAOmega spectrograph on the Anglo-Australian Teelscope. The aim is to map the kinematics and chemistry of stellar streams in the Southern Hemisphere. The initial focus has been on recently identified streams within the footprint of the Dark Energy Survey (DES), with the eventual goal of surveying the entire southern sky.
             </p>
-          </div>
+            <p>
+                The streams represent material tidally striped from dwarf galaxies and globular clusters and hence are essential dynamical probes of the dark matter distribution of the Milky Way, as well as providing a detailed snapshot of its accretion history.
+            </p>
+            <p>
+                Observing with the 3.9-m Anglo-Australian Telescope's 2-degree-Field (2dF) fibre positioner and AAOmega spectrograph, and combining the precise photometry of DES DR1 with the superb proper motions from Gaia DR2, allows us to conduct an efficient spectroscopic survey to map these DES streams. In addition to the stream survey, we use spare fibres to undertake a Milky Way halo survey and a low-redshift galaxy survey.
+            </p>
+
+            <div class="row">
+                <div class="6u">
+                    <section class="special box">
+                        <!-- <i class="icon fas fa-route major"></i> -->
+                        <div class="image fit">
+                            <img src="images/s5_pointing.png" alt="Person 1" />
+                        </div>
+                        <h3>S5-Streams</h3>
+                        <p>The main survey. The goal is to measure radial velocities and metallicities of stream members. So far S5 has mapped 9 DES streams and 3 streams outside of DES; the former are the first spectroscopic observations of these recently discovered streams.</p>
+                    </section>
+                </div>
+                <div class="6u">
+                    <section class="special box">
+                        <i class="icon fa-refresh major"></i>
+                        <h3>S5-Halo</h3>
+                        <p>We are able to use some spare fibres for a Milky Way halo survey. This has the aim of observing interesting objects in the halo such as hyper-velocity stars, extremely metal-poor stars, RR Lyraes, and white dwarfs.</p>
+                    </section>
+                </div>
+            </div>
+            <div class="row">
+                <div class="6u">
+                    <section class="special box">
+                        <div class="image fit">
+                            <img src="images/low-z.png" alt="Person 1" />
+                        </div>
+                        <h3>S5-LowZ</h3>
+                        <p>Nearby faint galaxies are difficult to distinguish from the far more numerous background galaxy population via photometry alone. The goal of including low-redshift (low-z) galaxy targets in S5 is to increase the number of spectroscopically confirmed low-z galaxies in order to better train photometric selection algorithms, and help build a statistic sample of very low-z galaxies. </p>
+												<p>(Image credit: SDSS)</p>
+                    </section>
+                </div>
+								<div class="6u">
+                    <section class="special box">
+                        <div class="image fit">
+                            <img src="images/eso1122a.jpg" alt="Person 1" />
+                        </div>
+                        <h3>S5-QSO</h3>
+                        <p>During the visual inspection of galaxy redshift measurement for the S5-LowZ Survey, we found that our stellar sample has a large number (over 1000) QSOs in it. We have released a catalogue of 640 redshifts.</p>
+												<p>(Image credit: ESO/M. Kornmesser)</p>
+                    </section>
+                </div>
+            </div>
         </div>
-      </div>
     </section>
 
-
-
-    <section id="org" class="wrapper style1">
-      <header class="major">
-        <h2>Collaboration and Members</h2>
-      </header>
-      <div class="container">
-        <div class="row">
-          <div class="12u">
-            <p>The S5 Collaboration consists of roughly 30 members spread accross many institutions. S5 is a collaboration between the members DES Milky Way Working Group and a group of Australian astronomers. S5 leadership team helps to coordination the operational and scientific efforts of the collaboration.</p>
-            <ul>
-            <li>S5 leadership: Ting Li (tingli@fnal.gov), Daniel Zucker, Geraint Lewis, Kyler Kuehn </li>
-            <li>S5 Data Release Coordinator: Sergey Koposov?</li>
-            <li>S5 Website Coordinator: anyone?</li>
-            <li>S5 Team (alphebatical): </li>
-            </ul>
-            <p>If you are interested in getting involved in S5, please contact Ting Li or other members in the S5 leadership team.<p>
-          </div>
-        </div>
-      </div>
-    </section>
-    
-    
-    <section id="data" class="wrapper style1">
+    <section id="data" class="wrapper style2">
         <header class="major">
             <h2>Data</h2>
+            <p>S5 plan to have the first public data release at the end of 2020.</p>
+            <p>If you are interested in any S5 data, please contact Ting Li to make your special request. Below we have a list of tables that are published in the papers. </p>
         </header>
-        <div class="container">
-            <div class="row">
-                <div class="12u">
-                    <p>
-                    S5 plan to have the first public data release at the end of 2020.
-                    If you are interested in any S5 data, please contact Ting to make your special request.
-                    Below we have a list of tables that are published in the papers.
-                    <ul>
-                        <li> QSO redshifts: (link to be add) </li>
-                    </ul>
-                    </p>
-                </div>
-            </div>
-        </div>
     </section>
-    
-    
-    <section id="pub" class="wrapper style1">
+
+    <section id="publications" class="wrapper style1">
         <header class="major">
             <h2>Publications</h2>
+            <p>Here are papers from S5:</p>
         </header>
         <div class="container">
-            <div class="row">
-                <div class="12u">
-                    <p>
-                    Here are papers from S5:
-                    <ul>
-                        <li> S5 Overview </li>
-                    </ul>
-                    </p>
+            <p>
+                <ul>
+                    <li>Li et al (2019): <i>The Southern Stellar Stream Spectroscopic Survey (S5) I: Overview, Target Selection, Data Reduction, Validation, and Early Science</i></li>
+                </ul>
+            </p>
+        </div>
+    </section>
+
+    <!-- Two -->
+    <section id="collaboration" class="wrapper style2 special">
+        <div class="inner">
+            <header>
+                <h2>S5 Membership</h2>
+								<p>The S5 Collaboration consists of roughly 30 members spread across many institutions.</p>
+            </header>
+            <p>S5 is a collaboration between the members DES Milky Way Working Group and a group of Australian astronomers.</p>
+						<p>If you are interested in getting involved in S5, please contact Ting Li or other members in the S5 leadership team.</p>
+            </header>
+            <div class="container">
+                <h3>S5 leadership</h3>
+                <p>S5 leadership team helps to coordinate the operational and scientific efforts of the collaboration.</p>
+                <div class="row">
+                    <div class="3u">
+                        <section class="special box">
+                            <div class="image round">
+                                <img src="images/tingli.jpg" alt="Ting Li" />
+                            </div>
+                            <h4>Ting Li</h4>
+                            <!-- <p>S5 leadership</p> -->
+                        </section>
+                    </div>
+                    <div class="3u">
+                        <section class="special box">
+                            <div class="image round">
+                                <img src="images/danielzucker.jpg" alt="Daniel Zucker" />
+                            </div>
+                            <h4>Daniel Zucker</h4>
+                        </section>
+                    </div>
+                    <div class="3u">
+                        <section class="special box">
+                            <div class="image round">
+                                <img src="images/GeraintLewis.jpg" alt="Geraint Lewis" />
+                            </div>
+                            <h4>Geraint Lewis</h4>
+                        </section>
+                    </div>
+                    <div class="3u">
+                        <section class="special box">
+                            <div class="image round">
+                                <img src="images/KylerKuehn.jpg" alt="Kyler Kuehn" />
+                            </div>
+                            <h4>Kyler Kuehn</h4>
+                        </section>
+                    </div>
                 </div>
             </div>
-        </div>
+            <div class="container">
+                <h3>Builders</h3>
+                <p>Other key members of the team.</p>
+                <div class="row">
+                    <div class="3u">
+                        <section class="special box">
+                            <div class="image round">
+                                <img src="images/Sergey_Koposov.jpg" alt="Sergey Koposov" />
+                            </div>
+                            <h4>Sergey Koposov</h4>
+                            <p>S5 Data Release Coordinator</p>
+                        </section>
+                    </div>
+                    <div class="3u">
+                        <section class="special box">
+                            <div class="image round">
+                                <img src="images/jeffreysimpson.jpg" alt="Jeffrey Simpson" />
+                            </div>
+                            <h4>Jeffrey Simpson</h4>
+                            <p>S5 Website Coordinator</p>
+                        </section>
+                    </div>
+                </div>
+                <h3>Other team members</h3>
+                <p>Sahar Allam, Eduardo Balbinot, Vasily Belokurov, Joss Bland-Hawthorn, Lara Cullinane, Gary Da Costa, Gayandhi De Silva, Denis Erkal, Marla Geha, Alexander Ji, Dougal Mackey, Yao-Yuan Mao, Sarah Martell, Jeremy Mould, Andrew Pace, Sanjib Sharma, Nora Shipp, Josh Simon, Douglas Tucker, Kathy Vivas, Zhen Wan, Risa Wechsler, Brian Yanny</p>
+            </div>
     </section>
 
-    <hr class="featurette-divider">
+    <!-- Three -->
+    <!-- <section id="three" class="wrapper style1">
+				<div class="container">
+					<div class="row">
+						<div class="8u">
+							<section>
+								<h2>Mollis ut adipiscing</h2>
+								<a href="#" class="image fit"><img src="images/pic03.jpg" alt="" /></a>
+								<p>Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.</p>
+							</section>
+						</div>
+						<div class="4u">
+							<section>
+								<h3>Magna massa blandit</h3>
+								<p>Feugiat amet accumsan ante aliquet feugiat accumsan. Ante blandit accumsan eu amet tortor non lorem felis semper. Interdum adipiscing orci feugiat penatibus adipiscing col cubilia lorem ipsum dolor sit amet feugiat consequat.</p>
+								<ul class="actions">
+									<li><a href="#" class="button alt">Learn More</a></li>
+								</ul>
+							</section>
+							<hr />
+							<section>
+								<h3>Ante sed commodo</h3>
+								<ul class="alt">
+									<li><a href="#">Erat blandit risus vis adipiscing</a></li>
+									<li><a href="#">Tempus ultricies faucibus amet</a></li>
+									<li><a href="#">Arcu commodo non adipiscing quis</a></li>
+									<li><a href="#">Accumsan vis lacinia semper</a></li>
+								</ul>
+							</section>
+						</div>
+					</div>
+				</div>
+			</section> -->
 
-    <section id="group" class="wrapper style1">
-      <footer id="footer">
+    <!-- Footer -->
+    <footer id="footer">
         <div class="container">
+            <!-- <div class="row double">
+						<div class="6u">
+							<div class="row collapse-at-2">
+								<div class="6u">
+									<h3>Accumsan</h3>
+									<ul class="alt">
+										<li><a href="#">Nascetur nunc varius</a></li>
+										<li><a href="#">Vis faucibus sed tempor</a></li>
+										<li><a href="#">Massa amet lobortis vel</a></li>
+										<li><a href="#">Nascetur nunc varius</a></li>
+									</ul>
+								</div>
+								<div class="6u">
+									<h3>Faucibus</h3>
+									<ul class="alt">
+										<li><a href="#">Nascetur nunc varius</a></li>
+										<li><a href="#">Vis faucibus sed tempor</a></li>
+										<li><a href="#">Massa amet lobortis vel</a></li>
+										<li><a href="#">Nascetur nunc varius</a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						<div class="6u">
+							<h2>Aliquam Interdum</h2>
+							<p>Blandit nunc tempor lobortis nunc non. Mi accumsan. Justo aliquet massa adipiscing cubilia eu accumsan id. Arcu accumsan faucibus vis ultricies adipiscing ornare ut. Mi accumsan justo aliquet.</p>
+							<ul class="icons">
+								<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+								<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+								<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+								<li><a href="#" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
+								<li><a href="#" class="icon fa-pinterest"><span class="label">Pinterest</span></a></li>
+							</ul>
+						</div>
+					</div> -->
+            <ul class="copyright">
+                <li>&copy; S5 Collaboration. All rights reserved.</li>
+                <li>Design: <a href="http://templated.co">TEMPLATED</a></li>
+                <!-- <li>Images: <a href="http://unsplash.com">Unsplash</a></li> -->
+            </ul>
         </div>
-      </footer>
-    </section>
-    
-  </body>
+    </footer>
+
+</body>
+
 </html>
