@@ -16,7 +16,7 @@
 
 > The page is based upon the the [Ion Template](https://templated.co/ion)
 
-### 🏠 [Homepage](s5collab.github.io)
+### 🏠 [Homepage](http://s5collab.github.io)
 
 ## Website Maintainer
 
