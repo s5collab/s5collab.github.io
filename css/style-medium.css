@@ -33,6 +33,15 @@ body, input, select, textarea {
   min-width: 0;
 }
 
+/* Banner */
+#banner_news {
+  padding: 1em 1em;
+}
+
+#banner_news .button {
+  min-width: 0;
+}
+
 /* Layers */
 #navButton .toggle {
   text-decoration: none;

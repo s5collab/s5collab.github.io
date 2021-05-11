@@ -56,6 +56,19 @@ header.major h2+p {
   font-size: 1.25em;
 }
 
+/* Banner_news */
+#banner_news {
+  padding: 1em 2em 4em 2em;
+}
+
+#banner_news h2 {
+  font-size: 2em;
+}
+
+#banner_news p {
+  font-size: 1.25em;
+}
+
 /* Main */
 #main {
   padding: 4em 0 0 0;

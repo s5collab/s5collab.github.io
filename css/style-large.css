@@ -17,6 +17,15 @@ body, input, select, textarea {
   font-size: 2.5em;
 }
 
+/* Banner */
+#banner_news {
+  padding: 4em 0;
+}
+
+#banner_news h2 {
+  font-size: 2.5em;
+}
+
 /* Footer */
 #footer {
   padding: 4em 0;

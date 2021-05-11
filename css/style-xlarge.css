@@ -12,3 +12,8 @@ body, input, select, textarea {
 #banner {
   padding: 9em 0;
 }
+
+/* Banner */
+#banner_news {
+  padding: 9em 0;
+}
