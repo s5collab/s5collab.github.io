@@ -1049,8 +1049,8 @@ input[type="button"]:disabled,
   text-decoration: none;
 }
 
-/* banner_news */
-#banner_news {
+/* banner2 */
+#banner2 {
   background-color: #ff0040;
   background-size: cover;
   background-position: center center;
@@ -1061,7 +1061,7 @@ input[type="button"]:disabled,
   position: relative;
 }
 
-#banner_news:before {
+#banner2:before {
   content: '';
   position: absolute;
   left: 0;
@@ -1071,53 +1071,53 @@ input[type="button"]:disabled,
   background: rgba(64, 72, 80, 0.25);
 }
 
-#banner_news .inner {
+#banner2 .inner {
   position: relative;
   z-index: 1;
 }
 
-#banner_news .inner :last-child {
+#banner2 .inner :last-child {
   margin-bottom: 0;
 }
 
-#banner_news h2, #banner_news h3, #banner_news h4, #banner_news h5, #banner_news h6 {
+#banner2 h2, #banner2 h3, #banner2 h4, #banner2 h5, #banner2 h6 {
   color: #ffffff;
 }
 
-#banner_news .button.alt {
+#banner2 .button.alt {
   box-shadow: inset 0 0 0 1px rgba(144, 144, 144, 0.75);
   color: #ffffff !important;
 }
 
-#banner_news .button.alt:hover {
+#banner2 .button.alt:hover {
   background-color: rgba(144, 144, 144, 0.275);
 }
 
-#banner_news .button.alt:active {
+#banner2 .button.alt:active {
   background-color: rgba(144, 144, 144, 0.4);
 }
 
-#banner_news .button.alt.icon:before {
+#banner2 .button.alt.icon:before {
   color: #c1c1c1;
 }
 
-#banner_news .button {
+#banner2 .button {
   min-width: 12em;
 }
 
-#banner_news h2 {
+#banner2 h2 {
   font-size: 3.5em;
   line-height: 1em;
   margin: 0 0 0.5em 0;
   padding: 0;
 }
 
-#banner_news p {
+#banner2 p {
   font-size: 1.5em;
   margin-bottom: 2em;
 }
 
-#banner_news p a {
+#banner2 p a {
   color: #ffffff;
   text-decoration: none;
 }

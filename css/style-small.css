@@ -33,7 +33,7 @@ header.major h2 {
   font-size: 1.5em;
 }
 
-header.major h2+p {
+header.major h2+p {banner2
   font-size: 1.25em;
   margin: -0.5em 0 2em 0;
 }
@@ -56,16 +56,16 @@ header.major h2+p {
   font-size: 1.25em;
 }
 
-/* Banner_news */
-#banner_news {
+/* banner2 */
+#banner2 {
   padding: 1em 2em 4em 2em;
 }
 
-#banner_news h2 {
+#banner2 h2 {
   font-size: 2em;
 }
 
-#banner_news p {
+#banner2 p {
   font-size: 1.25em;
 }
 

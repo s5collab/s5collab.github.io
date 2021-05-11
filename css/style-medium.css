@@ -32,13 +32,13 @@ body, input, select, textarea {
 #banner .button {
   min-width: 0;
 }
-
+banner2
 /* Banner */
-#banner_news {
+#banner2 {
   padding: 1em 1em;
 }
 
-#banner_news .button {
+#banner2 .button {
   min-width: 0;
 }
 

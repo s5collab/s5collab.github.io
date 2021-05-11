@@ -18,11 +18,11 @@ body, input, select, textarea {
 }
 
 /* Banner */
-#banner_news {
+#banner2 {
   padding: 4em 0;
 }
 
-#banner_news h2 {
+#banner2 h2 {
   font-size: 2.5em;
 }
 
