@@ -35,7 +35,7 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2020 [S5 Collaboration](https://github.com/s5collab).<br />
+Copyright © 2021 [S5 Collaboration](https://github.com/s5collab).<br />
 This project is [Creative Commons Attribution 3.0 Unported](https://github.com/s5collab/s5collab.github.io/blob/master/LICENSE) licensed.
 
 ***
