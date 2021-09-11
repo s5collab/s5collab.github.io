@@ -9,7 +9,7 @@
 name: Update Publications
 
 on:
-#   workflow_dispatch
+  workflow_dispatch:
   schedule:
     - cron:  '0 0 * * *' # Runs at 10 am AEST
 
