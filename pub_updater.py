@@ -95,66 +95,77 @@ def get_pub_df(library_id):
 
 def title_stuff(pub):
     """Some title formatting stuff."""
-    title = pub.title[0].replace("${S}^5$", "S<SUP>5</SUP>")
+    title = pub.title[0].replace("${S}^5$", "S<sup>5</sup>")
     if pub.doi == " ":
         return f"<i>{title}</i>. "
     else:
         return f'<a href="https://doi.org/{pub.doi[0]}"><i>{title}</i></a>. '
 
 
-pub_df = get_pub_df("OLm3sdMXQOWK5cwYL5hfsg")
+def update_libary():
+    pub_df = get_pub_df("OLm3sdMXQOWK5cwYL5hfsg")
 
-press_set = set(["2020MNRAS.491.2465K", "2020Natur.583..768W"])
+    press_set = set(["2020MNRAS.491.2465K", "2020Natur.583..768W"])
 
-# Update the publication section of the website.
-with open("_basefiles/section_pubs.html", "w") as pubs_doc:
-    pubs_doc.write(
-        """
-  <section id="publications" class="wrapper style1">
-    <header class="major">
-      <h2>Publications</h2>
-    </header>
-    <div class="container">
-      <ol>\n"""
-    )
-    for *_, pub in pub_df.sort_values("date").iterrows():
-        arxiv = [a for a in pub.identifier if a.startswith("arXiv:")][0]
-        pub_str = "        <li>"
-        pub_str += pub.author[0] + " <i>et al</i>"
-        pub_str += f" ({pub.year}). "
-        pub_str += title_stuff(pub)
-        if pub.pub == "arXiv e-prints":
-            pub_str += "In submission"
-        else:
-            pub_str += pub.pub
-        pub_str += f' (<a href="https://arxiv.org/abs/{arxiv}">arXiv preprint</a>'
-        if pub.bibcode in press_set:
-            pub_str += '; <a href="#PressCoverage">Press coverage</a>'
-        pub_str += ")"
-        pub_str += "</li>\n"
-        pubs_doc.write(pub_str)
-    pubs_doc.write(
-        """      </ol>
-    </div>
-  </section>
-"""
-    )
+    # Update the publication section of the website.
+    with open("_basefiles/section_pubs.html", "w") as pubs_doc:
+        pubs_doc.write(
+            """
+    <section id="publications" class="wrapper style1">
+        <header class="major">
+        <h2>Publications</h2>
+        </header>
+        <div class="container">
+        <ol>\n"""
+        )
+        for *_, pub in pub_df.sort_values("date").iterrows():
+            arxiv = [a for a in pub.identifier if a.startswith("arXiv:")][0]
+            pub_str = "        <li>"
+            pub_str += pub.author[0] + " <i>et al</i>"
+            pub_str += f" ({pub.year}). "
+            pub_str += title_stuff(pub)
+            if pub.pub == "arXiv e-prints":
+                pub_str += "In submission"
+            else:
+                pub_str += pub.pub
+            pub_str += f' (<a href="https://arxiv.org/abs/{arxiv}">arXiv preprint</a>'
+            if pub.bibcode in press_set:
+                pub_str += '; <a href="#PressCoverage">Press coverage</a>'
+            pub_str += ")"
+            pub_str += "</li>\n"
+            pubs_doc.write(pub_str)
+        pubs_doc.write(
+            """      </ol>
+        </div>
+    </section>
+    """
+        )
+        
+        
+def main():
+    # This all creates the final index.html
+    html_files = [
+        "header.html",
+        "body_header.html",
+        "section_intro.html",
+        "section_data.html",
+        "section_pubs.html",
+        "section_press.html",
+        "section_people.html",
+        "body_footer.html",
+    ]
+    html_doc = ""
+    for input_file in html_files:
+        with open(f"_basefiles/{input_file}", "r") as insert_me:
+            for line in insert_me:
+                html_doc += line
+    with open("index.html", "w") as index_out:
+        index_out.write(html_doc)
 
-# This all creates the final index.html
-html_files = [
-    "header.html",
-    "body_header.html",
-    "section_intro.html",
-    "section_data.html",
-    "section_pubs.html",
-    "section_press.html",
-    "section_people.html",
-    "body_footer.html",
-]
-html_doc = ""
-for input_file in html_files:
-    with open(f"_basefiles/{input_file}", "r") as insert_me:
-        for line in insert_me:
-            html_doc += line
-with open("index.html", "w") as index_out:
-    index_out.write(html_doc)
+if __name__ == "__main__":
+    update_libary()
+    main()
+    
+
+
+
