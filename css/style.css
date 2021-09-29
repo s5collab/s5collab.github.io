@@ -30,7 +30,7 @@ a:hover {
 }
 
 strong, b {
-  color: #ffffff;
+  /* color: #ffffff; */
   font-weight: 500;
 }
 
@@ -1156,4 +1156,63 @@ input[type="button"]:disabled,
 
 #footer .icons a {
   color: #bbb;
+}
+
+/* --- Lists of circles --- */
+
+.list-circles {
+  text-align: center;
+}
+
+.main_blockquote {
+  font-family: 'Open Sans';
+  font-weight: 400;
+  font-size: 1.25rem;
+  line-height: 1.5;
+}
+
+@media only screen and (min-width: 1200px) {
+  .list-circles {
+    width: 100%;
+    margin-left: 0%;
+  }
+}
+
+.list-circles-item {
+  display: inline-block;
+  width: 240px;
+  vertical-align: top;
+  margin: 0;
+  padding: 20px;
+}
+
+.list-circles-item:hover {
+  background: #fafafa;
+}
+
+.list-circles-item .item-img {
+  max-width: 200px;
+  height: 200px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  border: 1px solid #777;
+}
+
+.list-circles-item .item-desc {
+  font-size: 16px;
+}
+
+.list-circles-item .item-links {
+  margin-top: 5px;
+}
+
+.list-circles-item .item-link {
+  margin:0 3px;
+  color: #629DD1;
+  text-decoration: none !important;
+}
+
+.list-circles-item .item-link:hover {
+  color: #76a9d7;
 }
