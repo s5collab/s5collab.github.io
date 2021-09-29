@@ -42,7 +42,7 @@ jobs:
           git config --local user.email "jeffrey.simpson@unsw.edu.au"
           git config --local user.name "Jeffrey Simpson"
           git add -A
-          git commit -m "Automatically updating the publication files"
+          git commit -m "Automatically updating the website."
         fi
     - name: push changes
       uses: ad-m/github-push-action@v0.6.0

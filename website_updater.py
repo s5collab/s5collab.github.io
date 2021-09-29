@@ -19,15 +19,15 @@ def get_config():
     Load ADS developer key from file and
     and return the headers for the request
     """
-    # token = os.getenv('ADS_TOKEN')
-    try:
-        with open(os.path.expanduser("~/.ads/dev_key")) as f:
-            token = f.read().strip()
-    except IOError:
-        print(
-            "The script assumes you have your ADS developer token in the"
-            "folder: {}".format()
-        )
+    token = os.getenv('ADS_TOKEN')
+    # try:
+    #     with open(os.path.expanduser("~/.ads/dev_key")) as f:
+    #         token = f.read().strip()
+    # except IOError:
+    #     print(
+    #         "The script assumes you have your ADS developer token in the"
+    #         "folder: {}".format()
+    #     )
 
     return {
         "url": "https://api.adsabs.harvard.edu/v1/biblib",
@@ -276,7 +276,7 @@ def main():
         index_out.write(html_doc)
 
 if __name__ == "__main__":
-    # update_libary()
+    update_libary()
     update_people_section()
     main()
     
