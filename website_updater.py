@@ -208,7 +208,7 @@ def update_people_section():
     people_html.append('        <p>The S<sup>5</sup> Collaboration consists of roughly 30 members spread across many institutions.</p>')
     people_html.append('      </header>')
     people_html.append('      <p>S<sup>5</sup> is a collaboration between the members of the DES Milky Way Working Group and a group of Australian astronomers.</p>')
-    people_html.append('      <p>If you are interested in getting involved in S<sup>5</sup>, please contact <a href="mailto:tingli@carnegiescience.edu">Ting Li</a> or other members in the S<sup>5</sup> leadership team.</p>')
+    people_html.append('      <p>If you are interested in getting involved in S<sup>5</sup>, please contact <a href="mailto:ting.li@astro.utoronto.ca">Ting Li</a> or other members in the S<sup>5</sup> leadership team.</p>')
 
     #First section for the leadership
     people_html.append('      <div class="container">')
