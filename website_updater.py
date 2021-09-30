@@ -19,16 +19,11 @@ def get_config():
     Load ADS developer key from file and
     and return the headers for the request
     """
-    token = os.getenv('ADS_TOKEN')
-    # try:
-    #     with open(os.path.expanduser("~/.ads/dev_key")) as f:
-    #         token = f.read().strip()
-    # except IOError:
-    #     print(
-    #         "The script assumes you have your ADS developer token in the"
-    #         "folder: {}".format()
-    #     )
-
+    if os.getenv('ADS_TOKEN') is None:
+        with open(os.path.expanduser("~/.ads/dev_key")) as f:
+            token = f.read().strip() 
+    else:
+        token = os.getenv('ADS_TOKEN')
     return {
         "url": "https://api.adsabs.harvard.edu/v1/biblib",
         "headers": {
@@ -199,6 +194,9 @@ def create_circle_entry(person):
 def update_people_section():
     """This updates/creates the people section of the webite."""
     people = pd.read_json("_basefiles/people.json")
+    
+    # This self sorts the JSON file, so you can just new people at the end.
+    people.sort_values(['last_name', 'first_name']).to_json("_basefiles/people.json", orient='records', indent=2)
 
     people_html = []
     people_html.append('  <section id="collaboration" class="wrapper style1 special">')
@@ -215,7 +213,7 @@ def update_people_section():
     people_html.append('        <h3>S<sup>5</sup> leadership</h3>')
     people_html.append('        <p>S<sup>5</sup> leadership team helps to coordinate the operational and scientific efforts of the collaboration.</p>')
     people_html.append('        <div class="list-circles">')
-    for p_count, person in people[people.tag == "leadership"].iterrows():
+    for p_count, person in people[people.tag == "leadership"].sort_values(['last_name', 'first_name']).iterrows():
         people_html.append(create_circle_entry(person))
     people_html.append('        </div>')
     people_html.append('      </div>')
@@ -225,7 +223,7 @@ def update_people_section():
     people_html.append('      <div class="container">')
     people_html.append('        <h3>Other team members</h3>')
     people_html.append('        <div class="list-circles">')
-    for p_count, person in people[(people.tag != "leadership") & (people.tag.str.contains("photo"))].iterrows():
+    for p_count, person in people[(people.tag != "leadership") & (people.tag.str.contains("photo"))].sort_values(['last_name', 'first_name']).iterrows():
         people_html.append(create_circle_entry(person))
     people_html.append('        </div>')
     people_html.append('      </div>')
@@ -237,7 +235,7 @@ def update_people_section():
     people_html.append('        <h3>and</h3>')
     # people_html.append('        <div class="list-circles">')
     people_list = []
-    for p_count, person in people[people[['tag']].isna().values].iterrows():
+    for p_count, person in people[people[['tag']].isna().values].sort_values(['last_name', 'first_name']).iterrows():
         person_name = " ".join(person[['first_name','last_name']].values)
         person_icon_list = icon_list(person).strip().replace("\n", " ")
         if person_icon_list != "":
