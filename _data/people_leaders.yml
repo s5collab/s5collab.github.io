@@ -1,0 +1,25 @@
+people:
+  - name: "Kyler Kuehn"
+    affiliation: "Lowell Observatory"
+    image: assets/img/team/KylerKuehn.jpg
+
+  - name: "Geraint Lewis"
+    affiliation: "The University of Sydney"
+    image: assets/img/team/GeraintLewis.jpg
+    social:
+      - url: https://www.geraintflewis.com/
+        icon: fa fa-home
+
+  - name: "Ting Li"
+    affiliation: "University of Toronto"
+    image: assets/img/team/TingLi.jpg
+    social:
+      - url: https://sazabi4.github.io
+        icon: fa fa-home
+      - url: mailto:ting.li@astro.utoronto.ca
+        icon: fas fa-envelope
+
+  - name: "Daniel Zucker"
+    affiliation: "Macquarie University"
+    image: assets/img/team/DanielZucker.jpg
+

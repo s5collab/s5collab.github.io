@@ -1,0 +1,18 @@
+<!-- publications -->
+<section class="bg-light page-section" id="{{ site.data.sitetext[site.locale].publications.section | default: " publications " }}">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].publications.title | default: "publications Us" }}</h2>
+                <h3 class="section-subheading text-muted">{{ site.data.sitetext[site.locale].publications.text | default: "" }}</h3>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-8 mx-auto text-left">
+                {% capture my_include %}{% include_relative _data/publications.md %}{% endcapture %}
+                <div class="large text-muted"></div>{{ my_include | markdownify }}</div>
+        </div>
+    </div>
+    </div>
+</section>
+<!-- End publications -->

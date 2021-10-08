@@ -1,0 +1,65 @@
+people:
+  - name: "Joss Bland-Hawthorn"
+    affiliation: "The University of Sydney"
+    image: assets/img/team/JossBlandHawthorn.jpg
+
+  - name: "Denis Erkal"
+    affiliation: "University of Surrey"
+    role: "S<sup>5</sup> Dynamical modeling coordinator"
+    image: assets/img/team/DenisErkal.jpg
+    social:
+      - url: http://derkal.com
+        icon: fa fa-home
+
+  - name: "Alex Ji"
+    affiliation: "University of Chicago"
+    role: "S<sup>5</sup> HIRES coordinator"
+    image: assets/img/team/AlexJi.jpg
+    social:
+      - url: https://www.alexji.com
+        icon: fa fa-home
+
+  - name: "Sergey Koposov"
+    affiliation: "University of Edinburgh"
+    role: "S<sup>5</sup> Data release coordinator"
+    image: assets/img/team/SergeyKoposov.jpg
+    social:
+      - url: https://www.roe.ac.uk/~skoposov/
+        icon: fa fa-home
+
+  - name: "Yao-Yuan Mao"
+    affiliation: "Rutgers"
+    role: "S<sup>5</sup> Low-Z Coordinator"
+    image: assets/img/team/YaoYuanMao.jpg
+    social:
+      - url: https://yymao.github.io
+        icon: fa fa-home
+
+  - name: "Jeremy Mould"
+    affiliation: "Swinburne University of Technology"
+    image: assets/img/team/JeremyMould.jpg
+
+  - name: "Andrew Pace"
+    affiliation: "Carnegie Mellon University"
+    image: assets/img/team/AndrewPace.jpg
+    social:
+      - url: https://apace7.github.io/
+        icon: fa fa-home
+
+  - name: "Nora Shipp"
+    affiliation: "University of Chicago"
+    role: "S<sup>5</sup> Proper motion coordinator"
+    image: assets/img/team/NoraShipp.jpg
+
+  - name: "Jeffrey Simpson"
+    affiliation: "UNSW Sydney"
+    role: "S<sup>5</sup> Website coordinator"
+    image: assets/img/team/JeffreySimpson.jpg
+    social:
+      - url: https://jeffreysimpson.github.io
+        icon: fa fa-home
+      - url: mailto:jeffrey.simpson@unsw.edu.au
+        icon: fas fa-envelope
+      - url: https://twitter.com/fadastra
+        icon: fab fa-twitter
+
