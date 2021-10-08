@@ -16,12 +16,13 @@ theme: jekyll-agency
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : Your Awesome Website
-email      : your-email@example.com #this is also the email contact forms will go to
-description: "Site description"
-author     : Your Name
+browser_title: S⁵ • Southern Stellar Stream Spectroscopic Survey
+title      : S⁵ Collaboration
+email      : jeffrey.simpson@unsw.edu.au #this is also the email contact forms will go to
+description: "The Southern Stellar Stream Spectroscopic Survey"
+author     : Jeffrey Simpson
 # logo:     #optional, defaults to site title
-  # path: assets\img\clients\creative-market.jpg
+  # path: assets\img\s5-favicon.png
   # height: 60 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml

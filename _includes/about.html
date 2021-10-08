@@ -8,8 +8,9 @@
       </div>
     </div>
     <div class="row">
-      <div class="col-lg-8 mx-auto text-center">
-        <div class="large text-muted">{{ site.data.sitetext[site.locale].about.body | markdownify }}</div>
+      <div class="col-lg-8 mx-auto text-left">
+        {% capture about_md %}{% include_relative _data/about.md %}{% endcapture %}
+        <div class="text-muted text-left">{{ about_md | markdownify }}</div>
       </div>
     </div>
   </div>
