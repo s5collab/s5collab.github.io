@@ -1,0 +1,52 @@
+# Updating the website
+#
+# This workflow runs a Python script that updates the website.
+#
+# This workflow will install Python dependencies, execute website_updater.py.
+# It will then if anything has changed, and if so commit any changes.
+
+name: Update the website
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '0 0 * * *' # Runs at 10 am AEST
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python 3.9
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.9
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests pandas
+    - name: execute website_updater.py
+      env:
+        ADS_TOKEN: ${{ secrets.ADS_TOKEN }}
+      run: python _scripts/update_people.py
+           python _scripts/pub_maker.py
+
+    - name: check for changes
+    # see if anything actually changed
+      run: |
+        if git diff --exit-code index.html; then
+          echo "No changes"
+        else
+          git config --local user.email "jeffrey.simpson@unsw.edu.au"
+          git config --local user.name "Jeffrey Simpson"
+          git add -A
+          git commit -m "Automatically updating the website."
+        fi
+    - name: push changes
+      uses: ad-m/github-push-action@v0.6.0
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: main
