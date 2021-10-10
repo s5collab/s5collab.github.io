@@ -37,7 +37,7 @@ jobs:
     - name: check for changes
     # see if anything actually changed
       run: |
-        if git diff --exit-code index.html; then
+        if git diff --exit-code _data/people_no_photos.yml _data/people_leaders.yml _data/people_photos.yml _data/publications.md; then
           echo "No changes"
         else
           git config --local user.email "jeffrey.simpson@unsw.edu.au"
