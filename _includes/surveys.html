@@ -22,7 +22,7 @@
                     </span>
                     <h4 class="service-heading">{{ service.title | markdownify }}</h4>
                     {% if service.desc %}
-                    <div class="text-muted text-left">{{ service.desc | markdownify }}</div>{% endif %}
+                    <div class="text-muted text-left">{{ service.desc | markdownify }}<small><i>{{ service.image_caption | markdownify }}</i></small></div>{% endif %}
                 </div>
                 {% endfor %}
             </div>

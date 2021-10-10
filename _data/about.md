@@ -23,3 +23,5 @@ We also get high-resolution spectral follow-up on stream members with 8-metre cl
 To determine radial velocities and stellar atmospheric parameters from our AAOmega spectra we use [`rvspecfit`](https://github.com/segasai/rvspecfit/), an automated spectroscopic pipeline developed by Sergey Koposov.
 
 The [First Public Data Release](#data){: class="js-scroll-trigger active"} of the S⁵ was on April 24, 2021.
+
+<small>*Header image credit: James Josephides (Swinburne Astronomy Productions) and the S⁵ Collaboration*</small>
