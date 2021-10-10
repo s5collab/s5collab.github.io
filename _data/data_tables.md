@@ -16,7 +16,7 @@ We provide machine-readable versions of large tables published in our papers:<br
   
 ###### [T. S. Li et al (2021)](https://doi.org/10.3847/1538-4357/abeb18) • Broken into Pieces: ATLAS and Aliqa Uma as One Single Stream.
 There is a [GitHub repository of data](https://github.com/s5collab/ATLAS_AliqaUma) for this paper:
-  * Table 1: Radial velocites, metallicities of member stars</li>
+  * Table 1: Radial velocites, metallicities of member stars
   * Table 2: Distance moduli of blue horizontal branch stars and RR Lyrae stars
   * The STAN model used to model the 2-D density distribution of stars with splines
   * The best-fit stream and its associated orbit
