@@ -5,7 +5,7 @@ people:
 
   - name: "Denis Erkal"
     affiliation: "University of Surrey"
-    role: "S<sup>5</sup> Dynamical modeling coordinator"
+    role: "S⁵ Dynamical modeling coordinator"
     image: assets/img/team/DenisErkal.jpg
     social:
       - url: http://derkal.com
@@ -13,7 +13,7 @@ people:
 
   - name: "Alex Ji"
     affiliation: "University of Chicago"
-    role: "S<sup>5</sup> HIRES coordinator"
+    role: "S⁵ HIRES coordinator"
     image: assets/img/team/AlexJi.jpg
     social:
       - url: https://www.alexji.com
@@ -21,7 +21,7 @@ people:
 
   - name: "Sergey Koposov"
     affiliation: "University of Edinburgh"
-    role: "S<sup>5</sup> Data release coordinator"
+    role: "S⁵ Data release coordinator"
     image: assets/img/team/SergeyKoposov.jpg
     social:
       - url: https://www.roe.ac.uk/~skoposov/
@@ -29,7 +29,7 @@ people:
 
   - name: "Yao-Yuan Mao"
     affiliation: "Rutgers"
-    role: "S<sup>5</sup> Low-Z Coordinator"
+    role: "S⁵ Low-Z Coordinator"
     image: assets/img/team/YaoYuanMao.jpg
     social:
       - url: https://yymao.github.io
@@ -48,12 +48,12 @@ people:
 
   - name: "Nora Shipp"
     affiliation: "University of Chicago"
-    role: "S<sup>5</sup> Proper motion coordinator"
+    role: "S⁵ Proper motion coordinator"
     image: assets/img/team/NoraShipp.jpg
 
   - name: "Jeffrey Simpson"
     affiliation: "UNSW Sydney"
-    role: "S<sup>5</sup> Website coordinator"
+    role: "S⁵ Website coordinator"
     image: assets/img/team/JeffreySimpson.jpg
     social:
       - url: https://jeffreysimpson.github.io
