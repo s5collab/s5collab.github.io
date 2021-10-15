@@ -7,7 +7,6 @@ import os
 import requests
 import pandas as pd
 from urllib.parse import quote
-import matplotlib.pyplot as plt
 from pathlib import Path
 
 
@@ -62,8 +61,10 @@ def get_title_str(pub):
                      [r"$< -0.75$", "< −0.75"],
                      [r"$\textit{TESS}$", "*TESS*"],
                      [r"$Gaia$", "*Gaia*"],
-                     [r"${S}^5$", "S<sup>5</sup>"],
-                     ["(S5)", "(S<sup>5</sup>)"],
+                     [r"${S}^5$", "S⁵"],
+                     [r"$S^5$", "S⁵"],
+                     ["(S5)", "(S⁵)"],
+                     ["S<SUP>5</SUP>", "S⁵"],
                      ["*", "\*"]]
 
     for thing_to_fix in things_to_fix:
@@ -94,7 +95,7 @@ def get_pub_vol_pp_str(pub):
         if pub['page'][0] in ["arXiv:2109.03948", "arXiv:2106.12656"]:
             publication_str = "Accepted to ApJ"
         # Deal with papers still in submission.
-        if pub['page'][0] in ["arXiv:2107.13004"]:
+        if pub['page'][0] in ["arXiv:2107.13004", "arXiv:2110.06950"]:
             publication_str = "Submitted to ApJ"
     return f"{publication_str} {vol_str} {pp_str}"
 

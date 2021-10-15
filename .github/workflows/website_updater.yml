@@ -31,8 +31,9 @@ jobs:
     - name: execute website_updater.py
       env:
         ADS_TOKEN: ${{ secrets.ADS_TOKEN }}
-      run: python _scripts/update_people.py
-           python _scripts/pub_maker.py
+      run: |
+         python _scripts/update_people.py
+         python _scripts/pub_maker.py
 
     - name: check for changes
     # see if anything actually changed
