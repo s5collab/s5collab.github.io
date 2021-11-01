@@ -1,6 +1,7 @@
 
 #### 2021
 
+* [**Kinematics of Antlia 2 and Crater 2 from the Southern Stellar Stream Spectroscopic Survey (S⁵)**](https://ui.adsabs.harvard.edu/abs/2021ApJ...921...32J)<br/>Ji, Alexander P. *et al.* (2021) ApJ **921** 32 <small>([doi:10.3847/1538-4357/ac1869](https://doi.org/10.3847/1538-4357/ac1869))</small>
 * [**S⁵: The Orbital and Chemical Properties of One Dozen Stellar Streams**](https://ui.adsabs.harvard.edu/abs/2021arXiv211006950L)<br/>Li, Ting S. *et al.* (2021) Submitted to ApJ   <small>([arXiv:2110.06950](https://arxiv.org/abs/arXiv:2110.06950))</small>
 * [**Signature of a massive rotating metal-poor star imprinted in the Phoenix stellar stream**](https://ui.adsabs.harvard.edu/abs/2021arXiv210903948C)<br/>Casey, Andrew R. *et al.* (2021) Accepted to ApJ   <small>([arXiv:2109.03948](https://arxiv.org/abs/arXiv:2109.03948))</small>
 * [**Measuring the Mass of the Large Magellanic Cloud with Stellar Streams Observed by S⁵**](https://ui.adsabs.harvard.edu/abs/2021arXiv210713004S)<br/>Shipp, Nora *et al.* (2021) Submitted to ApJ   <small>([arXiv:2107.13004](https://arxiv.org/abs/arXiv:2107.13004))</small>
