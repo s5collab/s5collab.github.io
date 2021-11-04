@@ -41,7 +41,7 @@ en: &DEFAULT_EN
       - title: "S⁵-Halo"
         desc: "We use about a third of our fibres for a Milky Way halo survey. This has the aim of observing interesting objects in the halo such as hyper-velocity stars, extremely metal-poor stars, RR Lyraes, and white dwarfs. It was as part of this survey we found [S⁵-HVS1, a star travelling 1700 km&nbsp;s⁻¹](#portfolio)."
         icon: eso1217a.jpg
-        image_caption: "This artist’s impression of Milky Way galaxy and its halo. • Credit: ESO/L. Calçada"
+        image_caption: "Artist’s impression of Milky Way galaxy and its halo. • Credit: ESO/L. Calçada"
         image_link: https://www.eso.org/public/images/eso1217a/
       - title: "S⁵-Low<i>z</i>"
         desc: "Nearby faint galaxies are difficult to distinguish from the far more numerous background galaxy population via photometry alone. The goal of including low-redshift (low-z) galaxy targets in S⁵ is to increase the number of spectroscopically confirmed low-z galaxies in order to better train photometric selection algorithms, and help build a statistic sample of very low-z galaxies."
