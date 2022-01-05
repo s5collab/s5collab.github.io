@@ -93,10 +93,10 @@ def get_pub_vol_pp_str(pub):
         pp_str = f"{pub['page'][0]}".replace(" ", "")
     if pub['bibstem'][0] == "arXiv":
         # Deal with papers accepted but not published
-        if pub['page'][0] in [""]:
+        if pub['page'][0] in ["arXiv:2110.06950"]:
             publication_str = "Accepted to ApJ"
         # Deal with papers still in submission.
-        if pub['page'][0] in ["arXiv:2110.06950"]:
+        if pub['page'][0] in [""]:
             publication_str = "Submitted to ApJ"
     return f"{publication_str} {vol_str} {pp_str}"
 
