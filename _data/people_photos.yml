@@ -52,13 +52,12 @@ people:
     image: assets/img/team/NoraShipp.jpg
 
   - name: "Jeffrey Simpson"
-    affiliation: "UNSW Sydney"
     role: "S⁵ Website coordinator"
     image: assets/img/team/JeffreySimpson.jpg
     social:
       - url: https://jeffreysimpson.github.io
         icon: fa fa-home
-      - url: mailto:jeffrey.simpson@unsw.edu.au
+      - url: mailto:jeffrey_simpson@icloud.com
         icon: fas fa-envelope
       - url: https://twitter.com/fadastra
         icon: fab fa-twitter
