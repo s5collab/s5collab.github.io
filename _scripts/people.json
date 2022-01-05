@@ -299,8 +299,8 @@
   {
     "first_name":"Jeffrey",
     "last_name":"Simpson",
-    "affiliation":"UNSW Sydney",
-    "email":"jeffrey.simpson@unsw.edu.au",
+    "affiliation":null,
+    "email":"jeffrey_simpson@icloud.com",
     "twitter":"fadastra",
     "website":"https:\/\/jeffreysimpson.github.io",
     "github":"jeffreysimpson",
