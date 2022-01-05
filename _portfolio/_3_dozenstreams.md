@@ -18,10 +18,7 @@ Astronomers are one step closer to revealing the dark matter enveloping our Milk
 
 
 ##### Our peer-reviwed journal article
-* [**S⁵: The Orbital and Chemical Properties of One Dozen Stellar Streams**](https://ui.adsabs.harvard.edu/abs/2021arXiv211006950L)<br/>Li, Ting S *et al.* (2021) ApJ
-<!-- **583** 768 -->
-<small>([arXiv:2110.06950](https://arxiv.org/abs/2110.06950))</small>
-<!-- [doi:10.1038/s41586-020-2483-6](https://doi.org/10.1038/s41586-020-2483-6), -->
+* [**S⁵: The Orbital and Chemical Properties of One Dozen Stellar Streams**](https://ui.adsabs.harvard.edu/abs/2021arXiv211006950L)<br/>Li, Ting S. *et al.* (2021) Accepted to ApJ   <small>([arXiv:2110.06950](https://arxiv.org/abs/arXiv:2110.06950))</small>
 
 ##### The press release and images
 <!-- * [Our primary press release](https://www.sydney.edu.au/news-opinion/news/2020/07/30/stars-that-time-forgot-phoenix-stream-globular-cluster-metallicity.html) (The University of Sydney) -->
