@@ -6,7 +6,7 @@
 
 For the website itself, go to: https://s5collab.github.io
 
-Please address requests via email to Jeffrey Simpson ([jeffrey.simpson@unsw.edu.au](jeffrey.simpson@unsw.edu.au)).
+Please address requests via email to Jeffrey Simpson ([jeffrey_simpson@icloud.com](jeffrey_simpson@icloud.com)).
 
 This website is based upon the [Agency Jekyll Theme](https://github.com/raviriley/agency-jekyll-theme) with some modifications.  
 
