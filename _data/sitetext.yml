@@ -69,7 +69,7 @@ en: &DEFAULT_EN
     title: "Press Coverage"
     text: "S⁵ in the news."
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Close"
 
 
   team:
