@@ -19,7 +19,7 @@ Astronomers are one step closer to revealing the dark matter enveloping our Milk
 * [**S⁵: The Orbital and Chemical Properties of One Dozen Stellar Streams**](https://ui.adsabs.harvard.edu/abs/2021arXiv211006950L)<br/>Li, Ting S. *et al.* (2021) Accepted to ApJ   <small>([arXiv:2110.06950](https://arxiv.org/abs/arXiv:2110.06950))</small>
 
 ##### The press release and images
-* [Our primary press release](https://www.dunlap.utoronto.ca/dozen_stellar_stream) (University of Toronto)
+* [Our primary press release](https://www.dunlap.utoronto.ca/dozen_stellar_stream/) (University of Toronto)
 * [Our press release images and videos](https://s5collab.github.io/one_dozen_streams_press_release/)
 
 ##### Read the press coverage
