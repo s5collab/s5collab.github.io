@@ -22,6 +22,6 @@ Astronomers are one step closer to revealing the dark matter enveloping our Milk
 * [Our primary press release](https://www.dunlap.utoronto.ca/dozen_stellar_stream) (University of Toronto)
 * [Our press release images and videos](https://s5collab.github.io/one_dozen_streams_press_release/)
 
-<!-- ##### Read the press coverage
-* [The stars that time forgot – at the edge of our galaxy](https://www.abc.net.au/radionational/programs/scienceshow/the-stars-that-time-forgot---at-the-edge-of-our-galaxy/12512140) (ABC)
- -->
+##### Read the press coverage
+* [Milky Way is 'getting fatter' as it 'eats' 12 star systems, experts say](https://www.dailymail.co.uk/sciencetech/article-10391413/Milky-Way-getting-fatter-eats-12-star-systems-experts-say.html) (Daily Mail)
+
