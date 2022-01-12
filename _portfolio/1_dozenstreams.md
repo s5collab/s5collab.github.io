@@ -20,8 +20,10 @@ Astronomers are one step closer to revealing the dark matter enveloping our Milk
 
 ##### The press release and images
 * [Our primary press release](https://www.dunlap.utoronto.ca/dozen_stellar_stream/) (University of Toronto)
+* [Recording of the AAS 239 Press Conference: Stellar Nurseries, Clusters & Streams](https://youtu.be/MkoUkjkV9-Y?t=2085)
 * [Our press release images and videos](https://s5collab.github.io/one_dozen_streams_press_release/)
 
 ##### Read the press coverage
+* [Scientists find 12 shredded galaxies holding secrets of dark matter](https://www.cnet.com/news/astronomers-have-12-new-tools-to-study-dark-matter-mysteries/) (c|net)
 * [Milky Way is 'getting fatter' as it 'eats' 12 star systems, experts say](https://www.dailymail.co.uk/sciencetech/article-10391413/Milky-Way-getting-fatter-eats-12-star-systems-experts-say.html) (Daily Mail)
-
+* [Stellar Streams Are Revealing Their Secrets](https://skyandtelescope.org/astronomy-news/stellar-streams-are-revealing-their-secrets/) (Sky & Telescope)
