@@ -28,5 +28,6 @@ Astronomers are one step closer to revealing the dark matter enveloping our Milk
 * [Milky Way is 'getting fatter' as it 'eats' 12 star systems, experts say](https://www.dailymail.co.uk/sciencetech/article-10391413/Milky-Way-getting-fatter-eats-12-star-systems-experts-say.html) (Daily Mail)
 * [Star streams reveal Milky Way’s ravenous history](https://www.theglobeandmail.com/canada/article-star-streams-reveal-milky-ways-ravenous-history/) (The Globe and Mail)
 * [A new map of stellar streams could reveal dark matter mysteries](https://www.inverse.com/science/dark-matter-stellar-streams) (inverse)
+* [Galactic Debris as a Dark Matter Identifier](https://physics.aps.org/articles/v15/18) (Physics)
 * [Stellar Streams Are Revealing Their Secrets](https://skyandtelescope.org/astronomy-news/stellar-streams-are-revealing-their-secrets/) (Sky & Telescope)
 * [Does the Milky Way eat dark matter for dessert?](https://www.syfy.com/syfy-wire/stars-the-milky-way-eats-could-shed-light-on-dark-matter) (SyFy Wire)
