@@ -1,6 +1,7 @@
 
 #### 2022
 
+* [**The effect of the deforming dark matter haloes of the Milky Way and the Large Magellanic Cloud on the Orphan-Chenab stream**](https://ui.adsabs.harvard.edu/abs/2022arXiv220501688L)<br/>Lilleengen, Sophia *et al.* (2022) arXiv   <small>([arXiv:2205.01688](https://arxiv.org/abs/arXiv:2205.01688))</small>
 * [**S⁵: The Orbital and Chemical Properties of One Dozen Stellar Streams**](https://ui.adsabs.harvard.edu/abs/2022ApJ...928...30L)<br/>Li, Ting S. *et al.* (2022) ApJ **928** 30 <small>([doi:10.3847/1538-4357/ac46d3](https://doi.org/10.3847/1538-4357/ac46d3), [arXiv:2110.06950](https://arxiv.org/abs/arXiv:2110.06950))</small>
 
 #### 2021
