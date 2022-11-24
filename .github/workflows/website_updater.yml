@@ -9,8 +9,8 @@ name: Update the website
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron:  '0 0 * * *' # Runs at 10 am AEST
+#   schedule:
+#     - cron:  '0 0 * * *' # Runs at 10 am AEST
 
 jobs:
   build:
