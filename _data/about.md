@@ -1,3 +1,5 @@
+![S⁵ logo](assets/img/logo.png "S⁵ logo."){: align="center" width="20%" }
+
 The **S**outhern **S**tellar **S**tream **S**pectroscopic **S**urvey (S⁵) is a spectroscopic survey of stars in the stellar streams of the Southern sky, with the aim of mapping their kinematics and chemistry. The streams represent material tidally striped from dwarf galaxies and globular clusters, and are essential dynamical probes of the dark matter distribution of the Milky Way, as well as providing a detailed snapshot of its accretion history.
 
 On this page you can find out about the survey, [get our data](#data){: class="js-scroll-trigger active"}, [read our publications](#publications){: class="js-scroll-trigger active"}, and [meet the S⁵ team](#team){: class="js-scroll-trigger active"}.
