@@ -1,12 +1,17 @@
 
+#### 2024
+
+* [**Inferring dark matter subhalo properties from simulated subhalo-stream encounters**](https://ui.adsabs.harvard.edu/abs/2024arXiv240402953H)<br/>Hilmi, Tariq *et al.* (2024) arXiv   <small>([doi:10.48550/arXiv.2404.02953](https://doi.org/10.48550/arXiv.2404.02953), [arXiv:2404.02953](https://arxiv.org/abs/arXiv:2404.02953))</small>
+* [**Multiple populations and a CH star found in the 300S globular cluster stellar stream**](https://ui.adsabs.harvard.edu/abs/2024MNRAS.529.2413U)<br/>Usman, Sam A. *et al.* (2024) MNRAS **529** 2413 <small>([doi:10.1093/mnras/stae185](https://doi.org/10.1093/mnras/stae185), [arXiv:2401.02476](https://arxiv.org/abs/arXiv:2401.02476))</small>
+
 #### 2023
 
 * [**S⁵: Probing the Milky Way and Magellanic Clouds potentials with the 6D map of the Orphan-Chenab stream**](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.4936K)<br/>Koposov, Sergey E. *et al.* (2023) MNRAS **521** 4936 <small>([doi:10.1093/mnras/stad551](https://doi.org/10.1093/mnras/stad551), [arXiv:2211.04495](https://arxiv.org/abs/arXiv:2211.04495))</small>
+* [**Streams on FIRE: Populations of Detectable Stellar Streams in the Milky Way and FIRE**](https://ui.adsabs.harvard.edu/abs/2023ApJ...949...44S)<br/>Shipp, Nora *et al.* (2023) ApJ **949** 44 <small>([doi:10.3847/1538-4357/acc582](https://doi.org/10.3847/1538-4357/acc582), [arXiv:2208.02255](https://arxiv.org/abs/arXiv:2208.02255))</small>
 * [**The effect of the deforming dark matter haloes of the Milky Way and the Large Magellanic Cloud on the Orphan-Chenab stream**](https://ui.adsabs.harvard.edu/abs/2023MNRAS.518..774L)<br/>Lilleengen, Sophia *et al.* (2023) MNRAS **518** 774 <small>([doi:10.1093/mnras/stac3108](https://doi.org/10.1093/mnras/stac3108), [arXiv:2205.01688](https://arxiv.org/abs/arXiv:2205.01688))</small>
 
 #### 2022
 
-* [**Streams on FIRE: Populations of Detectable Stellar Streams in the Milky Way and FIRE**](https://ui.adsabs.harvard.edu/abs/2022arXiv220802255S)<br/>Shipp, Nora *et al.* (2022) arXiv   <small>([doi:10.48550/arXiv.2208.02255](https://doi.org/10.48550/arXiv.2208.02255), [arXiv:2208.02255](https://arxiv.org/abs/arXiv:2208.02255))</small>
 * [**S⁵: The Orbital and Chemical Properties of One Dozen Stellar Streams**](https://ui.adsabs.harvard.edu/abs/2022ApJ...928...30L)<br/>Li, Ting S. *et al.* (2022) ApJ **928** 30 <small>([doi:10.3847/1538-4357/ac46d3](https://doi.org/10.3847/1538-4357/ac46d3), [arXiv:2110.06950](https://arxiv.org/abs/arXiv:2110.06950))</small>
 
 #### 2021
