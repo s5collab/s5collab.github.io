@@ -1,6 +1,7 @@
 
 #### 2024
 
+* [**S⁵: New insights from deep spectroscopic observations of the tidal tails of the globular clusters NGC 1261 and NGC 1904**](https://ui.adsabs.harvard.edu/abs/2024arXiv241108991A)<br/>Awad, Petra *et al.* (2024) arXiv   <small>([doi:10.48550/arXiv.2411.08991](https://doi.org/10.48550/arXiv.2411.08991), [arXiv:2411.08991](https://arxiv.org/abs/arXiv:2411.08991))</small>
 * [**Inferring dark matter subhalo properties from simulated subhalo-stream encounters**](https://ui.adsabs.harvard.edu/abs/2024arXiv240402953H)<br/>Hilmi, Tariq *et al.* (2024) arXiv   <small>([doi:10.48550/arXiv.2404.02953](https://doi.org/10.48550/arXiv.2404.02953), [arXiv:2404.02953](https://arxiv.org/abs/arXiv:2404.02953))</small>
 * [**Multiple populations and a CH star found in the 300S globular cluster stellar stream**](https://ui.adsabs.harvard.edu/abs/2024MNRAS.529.2413U)<br/>Usman, Sam A. *et al.* (2024) MNRAS **529** 2413 <small>([doi:10.1093/mnras/stae185](https://doi.org/10.1093/mnras/stae185), [arXiv:2401.02476](https://arxiv.org/abs/arXiv:2401.02476))</small>
 
