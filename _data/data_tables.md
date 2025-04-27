@@ -20,4 +20,15 @@ There is a [GitHub repository of data](https://github.com/s5collab/ATLAS_AliqaUm
   * Table 2: Distance moduli of blue horizontal branch stars and RR Lyrae stars
   * The STAN model used to model the 2-D density distribution of stars with splines
   * The best-fit stream and its associated orbit
+
+###### [Koposov et al (2023)](https://doi.org/10.1093/mnras/stad551)  • Probing the Milky Way and Magellanic Clouds potentials with the 6D map of the Orphan–Chenab stream
+There is a [Zenodo repository of data](https://zenodo.org/records/7644540) for the paper, incuding
+    * The Stan models used to extract stellar stream properties
+    * The measurement of radial velocity, stream track on the the sky, proper motions and stream densities for Orphan-Chenab.
+    * The list of candidate OC stream members from S5 and other surveys. 
+    * The best fit stream N-body model
+    * The posterior chains from the stream/potential model.
+    * The enclosed mass profiles for LMC and MW (figure 15 and 17 of the paper)
+
+
       
