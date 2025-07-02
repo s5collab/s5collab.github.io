@@ -1,7 +1,8 @@
 
 #### 2025
 
-* [**Flipping of the tidal tails of the Ophiuchus stream due to the decelerating Galactic bar**](https://ui.adsabs.harvard.edu/abs/2025arXiv250319221Y)<br/>Yang, Yong *et al.* (2025) arXiv   <small>([doi:10.48550/arXiv.2503.19221](https://doi.org/10.48550/arXiv.2503.19221), [arXiv:2503.19221](https://arxiv.org/abs/arXiv:2503.19221))</small>
+* [**Sifting for a Stream: The Morphology of the $300S$ Stellar Stream**](https://ui.adsabs.harvard.edu/abs/2025arXiv250621410C)<br/>Cohen, Benjamin *et al.* (2025) arXiv   <small>([doi:10.48550/arXiv.2506.21410](https://doi.org/10.48550/arXiv.2506.21410), [arXiv:2506.21410](https://arxiv.org/abs/arXiv:2506.21410))</small>
+* [**Flipping of the Tidal Tails of the Ophiuchus Stream due to the Decelerating Galactic Bar**](https://ui.adsabs.harvard.edu/abs/2025ApJ...984..189Y)<br/>Yang, Yong *et al.* (2025) ApJ **984** 189 <small>([doi:10.3847/1538-4357/adc57c](https://doi.org/10.3847/1538-4357/adc57c), [arXiv:2503.19221](https://arxiv.org/abs/arXiv:2503.19221))</small>
 * [**S⁵: New insights from deep spectroscopic observations of the tidal tails of the globular clusters NGC 1261 and NGC 1904**](https://ui.adsabs.harvard.edu/abs/2025A%26A...693A..69A)<br/>Awad, Petra *et al.* (2025) A&A **693** A69 <small>([doi:10.1051/0004-6361/202451930](https://doi.org/10.1051/0004-6361/202451930), [arXiv:2411.08991](https://arxiv.org/abs/arXiv:2411.08991))</small>
 
 #### 2024
