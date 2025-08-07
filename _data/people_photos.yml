@@ -30,7 +30,7 @@ people:
   - name: "Guilherme Limberg"
     image: assets/img/team/GuilhermeLimberg.jpg
     social:
-      - url: : https://guilimberg.github.io
+      - url: https://guilimberg.github.io
         icon: fa fa-home
 
   - name: "Yao-Yuan Mao"
