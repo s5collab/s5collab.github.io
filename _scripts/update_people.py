@@ -47,7 +47,7 @@ if __name__ == '__main__':
 
     icons_dict = {"website": {"icon": "fa fa-home", "link_prefix": "", "title": "Website"},
                 "email": {"icon": "fas fa-envelope", "link_prefix": "mailto:", "title": "Email"},
-                "twitter": {"icon": "fa-brands fa-x-twitter", "link_prefix": "https://twitter.com/", "title": "Twitter"},}
+                "twitter": {"icon": "fab fa-twitter", "link_prefix": "https://twitter.com/", "title": "Twitter"},}
     
     people_no_photos_idx = ~((people.tag == "photo") | (people.tag == "leadership"))
     with open("_data/people_no_photos.yml", 'w') as people_no_photos:
