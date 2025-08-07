@@ -42,9 +42,9 @@ people:
       - url: https://yymao.github.io
         icon: fa fa-home
 
-  - name: "Gustavo Medina"
+  - name: "Gustavo Medina Toledo"
     affiliation: "University of Toronto"
-    image: assets/img/team/GustavoMedina.jpg
+    image: assets/img/team/GustavoMedinaToledo.jpg
     social:
       - url: https://gmedinat.github.io
         icon: fa fa-home
@@ -74,7 +74,7 @@ people:
       - url: mailto:jeffrey_simpson@icloud.com
         icon: fas fa-envelope
       - url: https://twitter.com/fadastra
-        icon: fab fa-twitter
+        icon: fa-brands fa-x-twitter
 
   - name: "Sam Usman"
     affiliation: "Colgate University"
