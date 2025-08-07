@@ -27,12 +27,24 @@ people:
       - url: https://www.roe.ac.uk/~skoposov/
         icon: fa fa-home
 
+  - name: "Guilherme Limberg"
+    image: assets/img/team/GuilhermeLimberg.jpg
+    social:
+      - url: : https://guilimberg.github.io
+        icon: fa fa-home
+
   - name: "Yao-Yuan Mao"
     affiliation: "Rutgers"
     role: "S⁵ Low-Z Coordinator"
     image: assets/img/team/YaoYuanMao.jpg
     social:
       - url: https://yymao.github.io
+        icon: fa fa-home
+
+  - name: "Gustavo Medina Toledo"
+    image: assets/img/team/GustavoMedina Toledo.jpg
+    social:
+      - url: https://gmedinat.github.io
         icon: fa fa-home
 
   - name: "Jeremy Mould"
@@ -61,4 +73,13 @@ people:
         icon: fas fa-envelope
       - url: https://twitter.com/fadastra
         icon: fab fa-twitter
+
+  - name: "Sam Usman"
+    role: "S⁵ High-Res Coordinator"
+    image: assets/img/team/SamUsman.jpg
+    social:
+      - url: https://samusman.space
+        icon: fa fa-home
+      - url: mailto:susman@colgate.edu
+        icon: fas fa-envelope
 
