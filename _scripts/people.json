@@ -383,5 +383,38 @@
     "github":null,
     "description":null,
     "tag":"leadership"
+  },
+  {
+    "first_name":"Gustavo",
+    "last_name":"Medina Toledo",
+    "affiliation":null,
+    "email":null,
+    "twitter":null,
+    "website":"https:\/\/gmedinat.github.io",
+    "github":null,
+    "description":null,
+    "tag":"photo"
+  },
+  {
+    "first_name":"Guilherme",
+    "last_name":"Limberg",
+    "affiliation":null,
+    "email":null,
+    "twitter":null,
+    "website":": https:\/\/guilimberg.github.io",
+    "github":null,
+    "description":null,
+    "tag":"photo"
+  },
+  {
+    "first_name":"Sam",
+    "last_name":"Usman",
+    "affiliation":null,
+    "email":"susman@colgate.edu",
+    "twitter":null,
+    "website":"https:\/\/samusman.space",
+    "github":null,
+    "description":"S\u2075 High-Res Coordinator",
+    "tag":"photo"
   }
 ]
