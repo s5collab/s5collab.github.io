@@ -74,7 +74,7 @@ people:
       - url: mailto:jeffrey_simpson@icloud.com
         icon: fas fa-envelope
       - url: https://twitter.com/fadastra
-        icon: fa-brands fa-x-twitter
+        icon: fab fa-twitter
 
   - name: "Sam Usman"
     affiliation: "Colgate University"
