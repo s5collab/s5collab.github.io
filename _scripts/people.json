@@ -211,7 +211,7 @@
   {
     "first_name":"Guilherme",
     "last_name":"Limberg",
-    "affiliation":null,
+    "affiliation":"University of Chicago",
     "email":null,
     "twitter":null,
     "website":"https:\/\/guilimberg.github.io",
@@ -254,8 +254,8 @@
   },
   {
     "first_name":"Gustavo",
-    "last_name":"Medina Toledo",
-    "affiliation":null,
+    "last_name":"Medina",
+    "affiliation":"University of Toronto",
     "email":null,
     "twitter":null,
     "website":"https:\/\/gmedinat.github.io",
@@ -354,7 +354,7 @@
   {
     "first_name":"Sam",
     "last_name":"Usman",
-    "affiliation":null,
+    "affiliation":"Colgate University",
     "email":"susman@colgate.edu",
     "twitter":null,
     "website":"https:\/\/samusman.space",
