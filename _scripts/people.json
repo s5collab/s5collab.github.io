@@ -277,7 +277,7 @@
   {
     "first_name":"Andrew",
     "last_name":"Pace",
-    "affiliation":"Carnegie Mellon University",
+    "affiliation":"University of Virginia",
     "email":null,
     "twitter":null,
     "website":"https:\/\/apace7.github.io\/",
@@ -299,7 +299,7 @@
   {
     "first_name":"Nora",
     "last_name":"Shipp",
-    "affiliation":"University of Chicago",
+    "affiliation":"University of Washington",
     "email":null,
     "twitter":null,
     "website":null,
@@ -416,5 +416,27 @@
     "github":null,
     "description":null,
     "tag":"leadership"
+  },
+  {
+    "first_name":"Joshua",
+    "last_name":"Speagle",
+    "affiliation":"University of Toronto",
+    "email":"j.speagle@utoronto.ca",
+    "twitter":null,
+    "website":"https:\/\/joshspeagle.com",
+    "github":null,
+    "description":null,
+    "tag":"photo"
+  },
+  {
+    "first_name":"Adithya",
+    "last_name":"Gudalur Balasubramaniam",
+    "affiliation":"Macquarie University",
+    "email":"adithya.gudalurbalasubramaniam1@hdr.mq.edu.au",
+    "twitter":null,
+    "website":null,
+    "github":null,
+    "description":null,
+    "tag":"photo"
   }
 ]
