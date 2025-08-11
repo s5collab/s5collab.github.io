@@ -11,6 +11,13 @@ people:
       - url: http://derkal.com
         icon: fa fa-home
 
+  - name: "Adithya Gudalur Balasubramaniam"
+    affiliation: "Macquarie University"
+    image: assets/img/team/AdithyaGudalurBalasubramaniam.jpg
+    social:
+      - url: mailto:adithya.gudalurbalasubramaniam1@hdr.mq.edu.au
+        icon: fas fa-envelope
+
   - name: "Alex Ji"
     affiliation: "University of Chicago"
     role: "S⁵ HIRES coordinator"
@@ -54,14 +61,14 @@ people:
     image: assets/img/team/JeremyMould.jpg
 
   - name: "Andrew Pace"
-    affiliation: "Carnegie Mellon University"
+    affiliation: "University of Virginia"
     image: assets/img/team/AndrewPace.jpg
     social:
       - url: https://apace7.github.io/
         icon: fa fa-home
 
   - name: "Nora Shipp"
-    affiliation: "University of Chicago"
+    affiliation: "University of Washington"
     role: "S⁵ Proper motion coordinator"
     image: assets/img/team/NoraShipp.jpg
 
@@ -75,6 +82,15 @@ people:
         icon: fas fa-envelope
       - url: https://twitter.com/fadastra
         icon: fab fa-twitter
+
+  - name: "Joshua Speagle"
+    affiliation: "University of Toronto"
+    image: assets/img/team/JoshuaSpeagle.jpg
+    social:
+      - url: https://joshspeagle.com
+        icon: fa fa-home
+      - url: mailto:j.speagle@utoronto.ca
+        icon: fas fa-envelope
 
   - name: "Sam Usman"
     affiliation: "Colgate University"

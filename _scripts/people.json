@@ -132,6 +132,17 @@
     "tag":null
   },
   {
+    "first_name":"Adithya",
+    "last_name":"Gudalur Balasubramaniam",
+    "affiliation":"Macquarie University",
+    "email":"adithya.gudalurbalasubramaniam1@hdr.mq.edu.au",
+    "twitter":null,
+    "website":null,
+    "github":null,
+    "description":null,
+    "tag":"photo"
+  },
+  {
     "first_name":"Terese",
     "last_name":"Hansen",
     "affiliation":"Texas A&M University",
@@ -330,6 +341,17 @@
     "tag":"photo"
   },
   {
+    "first_name":"Joshua",
+    "last_name":"Speagle",
+    "affiliation":"University of Toronto",
+    "email":"j.speagle@utoronto.ca",
+    "twitter":null,
+    "website":"https:\/\/joshspeagle.com",
+    "github":null,
+    "description":null,
+    "tag":"photo"
+  },
+  {
     "first_name":"Kiyan",
     "last_name":"Tavangar",
     "affiliation":"University of Chicago",
@@ -416,27 +438,5 @@
     "github":null,
     "description":null,
     "tag":"leadership"
-  },
-  {
-    "first_name":"Joshua",
-    "last_name":"Speagle",
-    "affiliation":"University of Toronto",
-    "email":"j.speagle@utoronto.ca",
-    "twitter":null,
-    "website":"https:\/\/joshspeagle.com",
-    "github":null,
-    "description":null,
-    "tag":"photo"
-  },
-  {
-    "first_name":"Adithya",
-    "last_name":"Gudalur Balasubramaniam",
-    "affiliation":"Macquarie University",
-    "email":"adithya.gudalurbalasubramaniam1@hdr.mq.edu.au",
-    "twitter":null,
-    "website":null,
-    "github":null,
-    "description":null,
-    "tag":"photo"
   }
 ]
