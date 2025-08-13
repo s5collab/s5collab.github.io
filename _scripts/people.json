@@ -121,6 +121,17 @@
     "tag":"photo"
   },
   {
+    "first_name":"Peter",
+    "last_name":"Ferguson",
+    "affiliation":"University of Washington",
+    "email":"pferguso@uw.edu",
+    "twitter":null,
+    "website":"https:\/\/peterferguson.space",
+    "github":null,
+    "description":null,
+    "tag":"photo"
+  },
+  {
     "first_name":"Marla",
     "last_name":"Geha",
     "affiliation":null,
@@ -438,16 +449,5 @@
     "github":null,
     "description":null,
     "tag":"leadership"
-  },
-  {
-    "first_name":"Peter",
-    "last_name":"Ferguson",
-    "affiliation":"University of Washington",
-    "email":"pferguso@uw.edu",
-    "twitter":null,
-    "website":"https:\/\/peterferguson.space",
-    "github":null,
-    "description":null,
-    "tag":"photo"
   }
 ]

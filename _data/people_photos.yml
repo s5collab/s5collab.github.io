@@ -3,6 +3,14 @@ people:
     affiliation: "The University of Sydney"
     image: assets/img/team/JossBlandHawthorn.jpg
 
+  - name: "Gary Da Costa"
+    affiliation: "Australian National University"
+    role: "Primarily 2dF observer"
+    image: assets/img/team/GaryDaCosta.jpg
+    social:
+      - url: mailto:gary.dacosta@anu.edu.au
+        icon: fas fa-envelope
+
   - name: "Denis Erkal"
     affiliation: "University of Surrey"
     role: "S⁵ Dynamical modeling coordinator"
@@ -11,11 +19,13 @@ people:
       - url: http://derkal.com
         icon: fa fa-home
 
-  - name: "Adithya Gudalur Balasubramaniam"
-    affiliation: "Macquarie University"
-    image: assets/img/team/AdithyaGudalurBalasubramaniam.jpg
+  - name: "Peter Ferguson"
+    affiliation: "University of Washington"
+    image: assets/img/team/PeterFerguson.jpg
     social:
-      - url: mailto:adithya.gudalurbalasubramaniam1@hdr.mq.edu.au
+      - url: https://peterferguson.space
+        icon: fa fa-home
+      - url: mailto:pferguso@uw.edu
         icon: fas fa-envelope
 
   - name: "Alex Ji"
