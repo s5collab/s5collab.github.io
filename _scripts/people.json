@@ -80,12 +80,12 @@
     "first_name":"Gary",
     "last_name":"Da Costa",
     "affiliation":"Australian National University",
-    "email":null,
+    "email":"gary.dacosta@anu.edu.au",
     "twitter":null,
     "website":null,
     "github":null,
-    "description":null,
-    "tag":null
+    "description":"Primarily 2dF observer",
+    "tag":"photo"
   },
   {
     "first_name":"Gayandhi",
@@ -140,7 +140,7 @@
     "website":null,
     "github":null,
     "description":null,
-    "tag":"photo"
+    "tag":null
   },
   {
     "first_name":"Terese",
@@ -438,5 +438,16 @@
     "github":null,
     "description":null,
     "tag":"leadership"
+  },
+  {
+    "first_name":"Peter",
+    "last_name":"Ferguson",
+    "affiliation":"University of Washington",
+    "email":"pferguso@uw.edu",
+    "twitter":null,
+    "website":"https:\/\/peterferguson.space",
+    "github":null,
+    "description":null,
+    "tag":"photo"
   }
 ]
