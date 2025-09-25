@@ -112,3 +112,11 @@ people:
       - url: mailto:susman@colgate.edu
         icon: fas fa-envelope
 
+  - name: "Yong Yang"
+    affiliation: "The University of Sydney"
+    role: "S⁵ Website coordinator"
+    image: assets/img/team/YongYang.jpg
+    social:
+      - url: mailto:yong.yang@sydney.edu.au
+        icon: fas fa-envelope
+
