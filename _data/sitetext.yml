@@ -25,12 +25,12 @@ en: &DEFAULT_EN
 
   publications:
     title: "Publications"
-    text: "Peer-reviewed and submitted publications from the S⁵ collaboration."
+    text: "Peer-reviewed and submitted publications from the S⁵ collaboration. The full list of S⁵ publications on ADS is available [here](https://ui.adsabs.harvard.edu/public-libraries/OLm3sdMXQOWK5cwYL5hfsg)."
     section: publications
 
   surveys:
     title: "The S⁵ Surveys"
-    text: "We are more than just a streams survey."
+    text: "We are more than just a stream survey."
     section: surveys
     list:
       - title: "S⁵-Streams"
