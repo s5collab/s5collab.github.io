@@ -25,7 +25,7 @@ en: &DEFAULT_EN
 
   publications:
     title: "Publications"
-    text: "Peer-reviewed and submitted publications from the S⁵ collaboration. The full list of S⁵ publications on ADS is available [here](https://ui.adsabs.harvard.edu/public-libraries/OLm3sdMXQOWK5cwYL5hfsg)."
+    text: "Peer-reviewed and submitted publications from the S⁵ collaboration. The full list of S⁵ publications on ADS is available <a href='https://ui.adsabs.harvard.edu/public-libraries/OLm3sdMXQOWK5cwYL5hfsg' target='_blank' rel='noopener noreferrer'>here</a>."
     section: publications
 
   surveys:
