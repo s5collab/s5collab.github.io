@@ -1,5 +1,6 @@
 import pandas as pd
 
+
 def person_out(person, out_file):
     person_block = []
     person_name = " ".join(person[['first_name', 'last_name']].values)
