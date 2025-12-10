@@ -275,6 +275,17 @@
     "tag":null
   },
   {
+    "first_name":"Clara",
+    "last_name":"Mart\u00ednez-V\u00e1zquez",
+    "affiliation":"Gemini Observatory",
+    "email":"clara.martinez@noirlab.edu",
+    "twitter":null,
+    "website":null,
+    "github":null,
+    "description":null,
+    "tag":"photo"
+  },
+  {
     "first_name":"Gustavo",
     "last_name":"Medina Toledo",
     "affiliation":"University of Toronto",
@@ -460,16 +471,5 @@
     "github":null,
     "description":null,
     "tag":"leadership"
-  },
-  {
-    "first_name":"Clara",
-    "last_name":"Martínez-Vázquez",
-    "affiliation":"Gemini Observatory",
-    "email":"clara.martinez@noirlab.edu",
-    "twitter":null,
-    "website":null,
-    "github":null,
-    "description":null,
-    "tag":"photo"
   }
 ]

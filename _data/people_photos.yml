@@ -59,6 +59,13 @@ people:
       - url: https://yymao.github.io
         icon: fa fa-home
 
+  - name: "Clara Martínez-Vázquez"
+    affiliation: "Gemini Observatory"
+    image: assets/img/team/ClaraMartínezVázquez.jpg
+    social:
+      - url: mailto:clara.martinez@noirlab.edu
+        icon: fas fa-envelope
+
   - name: "Gustavo Medina Toledo"
     affiliation: "University of Toronto"
     image: assets/img/team/GustavoMedinaToledo.jpg
