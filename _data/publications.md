@@ -1,6 +1,7 @@
 
 #### 2025
 
+* [**Detailed Chemical Abundance Analysis of the Brightest Stars in the Turranburra and Willka Yaku Stellar Streams**](https://ui.adsabs.harvard.edu/abs/2025arXiv251210003W)<br/>Webber, Kaitlin B. *et al.* (2025) arXiv   <small>([arXiv:2512.10003](https://arxiv.org/abs/arXiv:2512.10003))</small>
 * [**S⁵: Tidal Disruption in Crater 2 and Formation of Diffuse Dwarf Galaxies in the Local Group**](https://ui.adsabs.harvard.edu/abs/2025arXiv251202177L)<br/>Limberg, Guilherme *et al.* (2025) arXiv   <small>([doi:10.48550/arXiv.2512.02177](https://doi.org/10.48550/arXiv.2512.02177), [arXiv:2512.02177](https://arxiv.org/abs/arXiv:2512.02177))</small>
 * [**Chemodynamics of BoötesI with $S^{5}$: Revised Velocity Gradient, Dark Matter Density, and Galactic Chemical Evolution Constraints**](https://ui.adsabs.harvard.edu/abs/2025arXiv250902546S)<br/>Sandford, Nathan R. *et al.* (2025) arXiv   <small>([doi:10.48550/arXiv.2509.02546](https://doi.org/10.48550/arXiv.2509.02546), [arXiv:2509.02546](https://arxiv.org/abs/arXiv:2509.02546))</small>
 * [**Sifting for a Stream: The Morphology of the $300S$ Stellar Stream**](https://ui.adsabs.harvard.edu/abs/2025arXiv250621410C)<br/>Cohen, Benjamin *et al.* (2025) arXiv   <small>([doi:10.48550/arXiv.2506.21410](https://doi.org/10.48550/arXiv.2506.21410), [arXiv:2506.21410](https://arxiv.org/abs/arXiv:2506.21410))</small>
