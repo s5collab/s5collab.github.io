@@ -38,7 +38,7 @@ There is a [Zenodo repository of data](https://zenodo.org/records/7644540) for t
 ###### [Yang et al (2025)](https://doi.org/10.3847/1538-4357/adc57c) • Flipping of the Tidal Tails of the Ophiuchus Stream due to the Decelerating Galactic Bar
    * [Table 1](tables/apjadc57ct1_mrt.txt): High-probability members of the Ophiuchus stream
 
-###### [Sandford et al (2026)](https://doi.org/10.48550/arXiv.2509.02546) • Chemodynamics of BoötesI with S⁵: Revised Velocity Gradient, Dark Matter Density, and Galactic Chemical Evolution Constraints
-   * [Table 1A](tables/BooI_final_catalog.ecsv): Membership list of BoötesI
+###### [Sandford et al (2026)](https://doi.org/10.48550/arXiv.2509.02546) • Chemodynamics of Boötes I with S⁵: Revised Velocity Gradient, Dark Matter Density, and Galactic Chemical Evolution Constraints
+   * [Table 1A](tables/BooI_final_catalog.ecsv): Membership list of Boötes I
 
 
