@@ -21,6 +21,8 @@ en: &DEFAULT_EN
       section: publications
     - title: "Press coverage"
       section: portfolio
+    - title: "Conference"
+      section: conference
     - title: "Team"
       section: team
     # - title: "Contact"
