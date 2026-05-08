@@ -71,6 +71,28 @@ en: &DEFAULT_EN
     section: portfolio
     closebutton: "Close"
 
+  timeline:
+    title: "Conference"
+    text: "Find out information about our collaboration-wide conferences in the past and future"
+    section: conference
+    # left is the default
+    #start_align: "left"
+    events:
+      - title: "Sydney Collaboration Meeting"
+        year: "2-8 Feb 2026"
+        desc: "We had S⁵ collaboration gathering together at Macquarie University in Sydney, Australia. Check out the [website](https://s5collab.github.io/s5meeting2026/) for more details, and video recordings are also available [here](https://www.youtube.com/@S5-Collab)."
+        image: assets/img/timeline/sydney.jpg
+        alt:
+
+#      - title: "Title"
+#        year: "2009-2011"
+#        desc: "Your description here, **Markdown** is fully supported."
+#        image: assets/img/timeline/4.jpg
+#        alt:
+        # you can enforce the alignment
+#        align: right
+#    end: "Be Part <br> of Our <br> Story!"
+
 
   team:
     section: team
