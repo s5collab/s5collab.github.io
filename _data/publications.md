@@ -1,6 +1,7 @@
 
 #### 2026
 
+* [**Boötes III is a Tidally Disrupting Ultra-Faint Dwarf Galaxy on an Eccentric Polar Orbit**](https://ui.adsabs.harvard.edu/abs/2026arXiv260707803L)<br/>Li, Ting S. *et al.* (2026) arXiv   <small>([doi:10.48550/arXiv.2607.07803](https://doi.org/10.48550/arXiv.2607.07803), [arXiv:2607.07803](https://arxiv.org/abs/arXiv:2607.07803))</small>
 * [**Sifting for a Stream: The Morphology of the 300 S Stellar Stream**](https://ui.adsabs.harvard.edu/abs/2026OJAp....961089C)<br/>Cohen, Benjamin *et al.* (2026) OJAp **9** 61089 <small>([doi:10.33232/001c.161089](https://doi.org/10.33232/001c.161089), [arXiv:2506.21410](https://arxiv.org/abs/arXiv:2506.21410))</small>
 * [**Epicyclic density variations in the Indus stellar stream**](https://ui.adsabs.harvard.edu/abs/2026MNRAS.547ag488Y)<br/>Yang, Yong *et al.* (2026) MNRAS **547** stag488 <small>([doi:10.1093/mnras/stag488](https://doi.org/10.1093/mnras/stag488), [arXiv:2603.09305](https://arxiv.org/abs/arXiv:2603.09305))</small>
 * [**Detailed Chemical Abundance Analysis of the Brightest Stars in the Turranburra and Willka Yaku Stellar Streams**](https://ui.adsabs.harvard.edu/abs/2026ApJ...998..114W)<br/>Webber, K. B. *et al.* (2026) ApJ **998** 114 <small>([doi:10.3847/1538-4357/ae2d59](https://doi.org/10.3847/1538-4357/ae2d59), [arXiv:2512.10003](https://arxiv.org/abs/arXiv:2512.10003))</small>
