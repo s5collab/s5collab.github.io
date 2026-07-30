@@ -7,17 +7,17 @@ def person_out(person, out_file):
     image_name = "".join(person[['first_name', 'last_name']].values).replace('-',"").replace(" ","")
     person_block.append(f'  - name: "{person_name}"')
     
-    if not person[['affiliation']].isna()[0]:
+    if not person[['affiliation']].isna().iloc[0]:
         affiliation = person['affiliation']
         person_block.append(f'    affiliation: "{affiliation}"')
-    if not person[['description']].isna()[0]:
+    if not person[['description']].isna().iloc[0]:
         description = person['description']
         person_block.append(f'    role: "{description}"')
     person_block.append(f'    image: assets/img/team/{image_name}.jpg')
     if not person[list(icons_dict.keys())].isna().all():
         person_block.append("    social:")
         for icon, icon_dict in icons_dict.items():
-            if not person[[icon]].isna()[0]:
+            if not person[[icon]].isna().iloc[0]:
                 person_block.append(f"      - url: {icon_dict['link_prefix']}{person[icon]}")
                 person_block.append(f"        icon: {icon_dict['icon']}")
     person_block.append("\n")
@@ -35,7 +35,7 @@ def create_person(person):
     if not person[list(icons_dict.keys())].isna().all():
         person_str.append(" (")
         person_str.append(", ".join([get_icon_link(person, icon, icon_dict)
-                                     for icon, icon_dict in icons_dict.items() if not person[[icon]].isna()[0]]))
+                                     for icon, icon_dict in icons_dict.items() if not person[[icon]].isna().iloc[0]]))
         person_str.append(")")
     return "".join(person_str)
     
